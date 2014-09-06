@@ -114,8 +114,6 @@
 		AB61B05319BB353800E16A9B /* Attributor */ = {
 			isa = PBXGroup;
 			children = (
-				AB61B05C19BB353800E16A9B /* AttributorAppDelegate.h */,
-				AB61B05D19BB353800E16A9B /* AttributorAppDelegate.m */,
 				AB61B05F19BB353800E16A9B /* Main_iPhone.storyboard */,
 				AB61B06219BB353800E16A9B /* Main_iPad.storyboard */,
 				AB61B06519BB353800E16A9B /* AttributorViewController.h */,
@@ -129,6 +127,8 @@
 		AB61B05419BB353800E16A9B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				AB61B05C19BB353800E16A9B /* AttributorAppDelegate.h */,
+				AB61B05D19BB353800E16A9B /* AttributorAppDelegate.m */,
 				AB61B05519BB353800E16A9B /* Attributor-Info.plist */,
 				AB61B05619BB353800E16A9B /* InfoPlist.strings */,
 				AB61B05919BB353800E16A9B /* main.m */,
